@@ -270,9 +270,10 @@ main{
     flex-direction: column;
 }
 .about--left{
+    font-weight: bolder;
     width: 100%;
     color:#ffffff;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Varela Round', sans-serif;
 }
 
@@ -434,8 +435,12 @@ main{
 
     .about--left{
         width: 100%;
+        font-size: 17px;
     }
 
+    .about--left img{
+        width: 100%;
+    }
     .section-map--area{
         flex-direction: column;
     }

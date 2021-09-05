@@ -60,7 +60,7 @@ function scroll3(){
 
 
 if(window.matchMedia("(max-width: 480px)").matches){
-    document.querySelector('#mobileimg1').setAttribute('src', 'assets/images/bgmobile2.jpg')
+    document.querySelector('#mobileimg1').setAttribute('src', 'assets/images/bgmobile.jpg')
     document.querySelector('#mobileimg2').setAttribute('src', 'assets/images/bgmobile2.jpg')
     document.querySelector('#mobileimg3').setAttribute('src', 'assets/images/bgmobile2.jpg')
 }

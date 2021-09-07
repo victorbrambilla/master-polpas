@@ -22,7 +22,7 @@ function scroll1(){
     }
 
     if (window.matchMedia("(max-width: 375px)").matches) {
-        window.scrollTo(0, 2124);
+        window.scrollTo(0, 2472);
     }
         
     
@@ -38,7 +38,7 @@ function scroll2(){
     }
 
     if (window.matchMedia("(max-width: 375px)").matches) {
-        window.scrollTo(0, 2320);
+        window.scrollTo(0, 2825);
     }
 }
 
@@ -53,7 +53,7 @@ function scroll3(){
     }
 
     if (window.matchMedia("(max-width: 375px)").matches) {
-        window.scrollTo(0, 3395);
+        window.scrollTo(0, 3754);
     }
     
 }

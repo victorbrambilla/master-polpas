@@ -177,7 +177,7 @@ main{
 .section1--text h1{
     color: white;
     font-size:60px;
-    font-family: 'Bangers', cursive;
+    font-family: 'Bangers';
     text-transform: uppercase;
     font:bolder;
 }

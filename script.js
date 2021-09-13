@@ -30,7 +30,7 @@ function scroll1(){
 
 function scroll2(){
     if (window.matchMedia("(max-width: 1920px)").matches) {
-        window.scrollTo(0, 3121);  
+        window.scrollTo(0, 3180);  
     }
 
     if (window.matchMedia("(max-width: 1024px)").matches) {
@@ -45,7 +45,22 @@ function scroll2(){
 
 function scroll3(){
     if (window.matchMedia("(max-width: 1920px)").matches) {
-        window.scrollTo(0, 3661);
+        window.scrollTo(0, 5466);
+    }
+
+    if (window.matchMedia("(max-width: 1024px)").matches) {
+        window.scrollTo(0, 2928);
+    }
+
+    if (window.matchMedia("(max-width: 375px)").matches) {
+        window.scrollTo(0, 3754);
+    }
+    
+}
+
+function scroll4(){
+    if (window.matchMedia("(max-width: 1920px)").matches) {
+        window.scrollTo(0, 4703);
     }
 
     if (window.matchMedia("(max-width: 1024px)").matches) {
@@ -59,10 +74,11 @@ function scroll3(){
 }
 
 
+
 if(window.matchMedia("(max-width: 480px)").matches){
     document.querySelector('#mobileimg1').setAttribute('src', 'assets/images/bgmobile.jpg')
     document.querySelector('#mobileimg2').setAttribute('src', 'assets/images/bgmobile2.jpg')
-    document.querySelector('#mobileimg3').setAttribute('src', 'assets/images/bgmobile2.jpg')
+    document.querySelector('#mobileimg3').setAttribute('src', 'assets/images/polpa.jpg')
 }
 
 

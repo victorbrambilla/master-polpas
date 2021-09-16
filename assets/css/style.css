@@ -238,9 +238,28 @@ main{
 }
 
 .products--container{
-    
+    justify-content: center;
+    display: flex;
     margin-top: 30px;
     width: 100%;
+    flex-wrap: wrap;
+}
+
+
+#h1--product{
+    font-size: 30px;
+
+}
+
+.section--products button{
+    padding: 10px 30px;
+    font-size: 25px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    background-color: #fba100;
+    margin-top: 50px;
+    text-transform:uppercase;
 }
 
 .section-about{

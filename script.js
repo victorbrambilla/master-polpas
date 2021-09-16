@@ -18,7 +18,7 @@ function scroll1(){
     }
 
     if (window.matchMedia("(max-width: 1024px)").matches) {
-        window.scrollTo(0, 2057);
+        window.scrollTo(0, 1992);
     }
 
     if (window.matchMedia("(max-width: 375px)").matches) {
@@ -34,11 +34,11 @@ function scroll2(){
     }
 
     if (window.matchMedia("(max-width: 1024px)").matches) {
-        window.scrollTo(0, 2654);
+        window.scrollTo(0, 3392);
     }
 
     if (window.matchMedia("(max-width: 375px)").matches) {
-        window.scrollTo(0, 2997);
+        window.scrollTo(0, 4354);
     }
 }
 
@@ -48,11 +48,11 @@ function scroll4(){
     }
 
     if (window.matchMedia("(max-width: 1024px)").matches) {
-        window.scrollTo(0, 3691);
+        window.scrollTo(0, 4497);
     }
 
     if (window.matchMedia("(max-width: 375px)").matches) {
-        window.scrollTo(0, 3954);
+        window.scrollTo(0, 5254);
     }
     
 }
@@ -64,11 +64,11 @@ function scroll3(){
     }
 
     if (window.matchMedia("(max-width: 1024px)").matches) {
-        window.scrollTo(0, 4225);
+        window.scrollTo(0, 5033);
     }
 
     if (window.matchMedia("(max-width: 375px)").matches) {
-        window.scrollTo(0, 4754);
+        window.scrollTo(0, 6071);
     }
     
 }
@@ -81,9 +81,6 @@ if(window.matchMedia("(max-width: 480px)").matches){
     document.querySelector('#mobileimg2').setAttribute('src', 'assets/images/bgmobile2.jpg')
     document.querySelector('#mobileimg3').setAttribute('src', 'assets/images/polpa.jpg')
 
-    document.querySelector('#product-mobile1').setAttribute('src', 'assets/images/produto1mobile.png')
-    document.querySelector('#product-mobile2').setAttribute('src', 'assets/images/produto2mobile.png')
-    document.querySelector('#product-mobile3').setAttribute('src', 'assets/images/produto3mobile.png')
     
 }
 

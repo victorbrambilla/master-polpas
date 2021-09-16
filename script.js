@@ -87,4 +87,3 @@ if(window.matchMedia("(max-width: 480px)").matches){
     
 }
 
-

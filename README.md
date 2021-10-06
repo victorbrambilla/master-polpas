@@ -1,5 +1,5 @@
 <h1>Master Polpas</h1>
-<h3>Site feito para uma pequena empresa de alimentos, seguindo design específicado pela empresa, com uso de botões para redirecionamento para redes sociais, slides com imagens fornecidas pela empresa, formulário para contato e responsivo para aparelhos mobile.</h3>
+<h3>Site feito para uma pequena empresa de alimentos, seguindo design específicado pela empresa, com uso de botões para redirecionamento para redes sociais, slides com imagens fornecidas pela empresa, formulário para contato e responsivo para aparelhos mobile. 90% pronto</h3>
 
 ![img1](https://user-images.githubusercontent.com/88890771/133342981-6dd2add1-9905-4f73-8280-f003cec41928.png)
 
